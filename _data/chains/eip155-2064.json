@@ -1,0 +1,38 @@
+{
+  "name": "MFX Network",
+  "chain": "MFX",
+  "rpc": [
+    "https://rpc.mfx.network/rpc"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "MFX",
+    "symbol": "MFX",
+    "decimals": 18
+  },
+  "infoURL": "https://mfx.network",
+  "shortName": "mfx",
+  "chainId": 2064,
+  "networkId": 2064,
+  "icon": {
+    "url": "ipfs://QmYtUimyqHkkFxYdbXXRbAqD8sVQi1Rt7TXVa6b51u3u2Y",
+    "width": 551,
+    "height": 540,
+    "format": "png"
+  },
+  "explorers": [
+    {
+      "name": "MFX Explorer",
+      "url": "https://explorer.mfx.network",
+      "standard": "EIP3091"
+    }
+  ],
+  "features": [
+    {
+      "name": "EIP155"
+    },
+    {
+      "name": "EIP1559"
+    }
+  ]
+}
